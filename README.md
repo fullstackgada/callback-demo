@@ -41,6 +41,6 @@ A fun, visual, and Hindi-based representation of **Callback Functions** using po
 
 🔗 **Instagram:** [fullstackgada](https://www.instagram.com/fullstackgada/)
 
-🤝 Follow for more creative tech content!
+🤝 Follow on Instagram for more creative tech content!
 
 **Enjoy learning Callbacks the fun way!**

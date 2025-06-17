@@ -1,4 +1,4 @@
-# 📚 Callback System Demo with Bhide & Jethalal (Hindi)
+# 📚 Callback System Demo with Bhide & Jethalal
 
 A fun, visual, and Hindi-based representation of **Callback Functions** using popular characters **Bhide** and **Jethalal** from *TMKOC*. This interactive demo explains how callbacks work in JavaScript through a relatable payment scenario on Bhide’s Tuition Website.
 
@@ -39,20 +39,8 @@ A fun, visual, and Hindi-based representation of **Callback Functions** using po
 
 ## 👨‍🎨 Created By
 
-🔗 **Instagram:** [Full Stack Gada](https://www.instagram.com/fullstackgada/)
+🔗 **Instagram:** [fullstackgada](https://www.instagram.com/fullstackgada/)
 
 🤝 Follow for more creative tech content!
-
----
-
-## 🧪 How to Run Locally
-
-```bash
-git clone https://github.com/yourusername/callback-bhide-demo.git
-cd callback-bhide-demo
-open index.html  # or open in your browser
-```
-
----
 
 **Enjoy learning Callbacks the fun way!**

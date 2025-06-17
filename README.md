@@ -43,4 +43,4 @@ A fun, visual, and Hindi-based representation of **Callback Functions** using po
 
 🤝 Follow on Instagram for more creative tech content!
 
-**Enjoy learning Callbacks the fun way!**
+**Enjoy learning Callback the fun way!**
